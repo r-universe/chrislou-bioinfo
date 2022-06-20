@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gg.gap"]
+	path = gg.gap
+	url = https://github.com/chrislou-bioinfo/gg.gap
+	shallow = true
+	registered = true
